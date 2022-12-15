@@ -1,1 +1,1 @@
-![Screenshot](hasil.JPEG)
+![Screenshot](hasil.jpeg)
